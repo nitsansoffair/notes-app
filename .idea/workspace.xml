@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74bb1f65-3ff9-4239-bcee-223d2a85e200" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../notes-app" />
+  </component>
+  <component name="ProjectId" id="1YOoKuwGCKOH43K6HxzZN1YpoW7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../notes-app" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74bb1f65-3ff9-4239-bcee-223d2a85e200" name="Default Changelist" comment="" />
+      <created>1582822940461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582822940461</updated>
+      <workItem from="1582822942280" duration="6326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2032" y="164" key="#Notifications" timestamp="1582845063505">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2032" y="164" key="#Notifications/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582845063505" />
+    <state x="2170" y="253" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582844893103">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2170" y="253" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582844893103" />
+    <state x="2220" y="261" key="FileChooserDialogImpl" timestamp="1582845110472">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2220" y="261" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582845110472" />
+    <state x="2274" y="422" width="356" height="166" key="Github.CreateGistDialog" timestamp="1582845092443">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2274" y="422" width="356" height="166" key="Github.CreateGistDialog/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582845092443" />
+    <state x="2314" y="391" width="260" height="211" key="Github.ShareDialog" timestamp="1582845048588">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2314" y="391" width="260" height="211" key="Github.ShareDialog/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582845048588" />
+  </component>
+</project>
