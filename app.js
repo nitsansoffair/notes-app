@@ -48,9 +48,16 @@ yargs.command({
 
 yargs.command({
     command: 'read',
+    builder: {
+        title: {
+            describe: 'title',
+            demandOption: true,
+            type: 'string'
+        }
+    },
     describe: 'print placeholder message for now',
-    handler ()  {
-        console.log('read!');
+    handler (argv)  {
+        notes.readNote(argv.title);
     }
 });
 
