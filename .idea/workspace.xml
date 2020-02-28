@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74bb1f65-3ff9-4239-bcee-223d2a85e200" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../notes-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../notes-app/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notes-app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../notes-app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notes-app/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../notes-app/notes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/4-callback.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../notes-app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YOoKuwGCKOH43K6HxzZN1YpoW7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,9 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../notes-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -46,7 +47,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582822940461</updated>
-      <workItem from="1582822942280" duration="10430000" />
+      <workItem from="1582822942280" duration="12537000" />
+      <workItem from="1582913649559" duration="738000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1582845148618</created>
@@ -62,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582848467368</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="List notes, read notes.">
+      <created>1582849207511</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582849207511</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,7 +80,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="Notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Notes" />
+    <MESSAGE value="List notes, read notes." />
+    <option name="LAST_COMMIT_MESSAGE" value="List notes, read notes." />
   </component>
   <component name="WindowStateProjectService">
     <state x="2032" y="164" key="#Notifications" timestamp="1582845063505">
@@ -82,10 +92,10 @@
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
     <state x="2170" y="253" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582844893103" />
-    <state x="2065" y="100" key="CommitChangelistDialog2" timestamp="1582848466540">
+    <state x="2065" y="100" key="CommitChangelistDialog2" timestamp="1582849205928">
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
-    <state x="2065" y="100" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582848466540" />
+    <state x="2065" y="100" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582849205928" />
     <state x="2220" y="261" key="FileChooserDialogImpl" timestamp="1582845110472">
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
@@ -98,9 +108,9 @@
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
     <state x="2314" y="391" width="260" height="211" key="Github.ShareDialog/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582845184790" />
-    <state x="2032" y="239" key="Vcs.Push.Dialog.v2" timestamp="1582848468907">
+    <state x="2032" y="239" key="Vcs.Push.Dialog.v2" timestamp="1582849209394">
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
-    <state x="2032" y="239" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582848468907" />
+    <state x="2032" y="239" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582849209394" />
   </component>
 </project>
