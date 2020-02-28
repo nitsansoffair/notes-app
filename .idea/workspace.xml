@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74bb1f65-3ff9-4239-bcee-223d2a85e200" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playground/4-callback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/5-es6-objects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +47,8 @@
       <option name="presentableId" value="Default" />
       <updated>1582822940461</updated>
       <workItem from="1582822942280" duration="12537000" />
-      <workItem from="1582913649559" duration="738000" />
+      <workItem from="1582913649559" duration="789000" />
+      <workItem from="1582916865605" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1582845148618</created>
@@ -71,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582849207511</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Callbacks">
+      <created>1582914400791</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582914400791</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,7 +88,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="Notes" />
     <MESSAGE value="List notes, read notes." />
-    <option name="LAST_COMMIT_MESSAGE" value="List notes, read notes." />
+    <MESSAGE value="Callbacks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Callbacks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2032" y="164" key="#Notifications" timestamp="1582845063505">
@@ -92,14 +100,14 @@
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
     <state x="2170" y="253" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582844893103" />
-    <state x="2065" y="100" key="CommitChangelistDialog2" timestamp="1582849205928">
+    <state x="2065" y="100" key="CommitChangelistDialog2" timestamp="1582914399598">
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
-    <state x="2065" y="100" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582849205928" />
-    <state x="2220" y="261" key="FileChooserDialogImpl" timestamp="1582845110472">
+    <state x="2065" y="100" key="CommitChangelistDialog2/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582914399598" />
+    <state x="2220" y="261" key="FileChooserDialogImpl" timestamp="1582914438363">
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
-    <state x="2220" y="261" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582845110472" />
+    <state x="2220" y="261" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582914438363" />
     <state x="2274" y="422" width="356" height="166" key="Github.CreateGistDialog" timestamp="1582845092443">
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
@@ -108,9 +116,13 @@
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
     <state x="2314" y="391" width="260" height="211" key="Github.ShareDialog/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582845184790" />
-    <state x="2032" y="239" key="Vcs.Push.Dialog.v2" timestamp="1582849209394">
+    <state x="2244" y="217" key="RollbackChangesDialog" timestamp="1582917384681">
       <screen x="1600" y="0" width="1680" height="1010" />
     </state>
-    <state x="2032" y="239" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582849209394" />
+    <state x="2244" y="217" key="RollbackChangesDialog/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582917384681" />
+    <state x="2032" y="239" key="Vcs.Push.Dialog.v2" timestamp="1582914402718">
+      <screen x="1600" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2032" y="239" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1680.1010@1600.0.1680.1010" timestamp="1582914402718" />
   </component>
 </project>
